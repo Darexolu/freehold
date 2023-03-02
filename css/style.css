@@ -1,0 +1,202 @@
+.banner-top{
+    width: 100% !important;
+    min-height: 500px;
+    background-image: url(../images/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbar-light{
+    background-color: transparent !important;
+}
+.container{
+    width: 960px !important;
+
+}
+.navbar-nav .nav-link{
+    color: #eee;
+}
+.navbar-nav .nav-link.active{
+    color: #f12c09;
+}
+.navbar-brand{
+    color: #fff;
+    border: 1px solid #fff;
+    width: 170px;
+    padding: 2px 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.banner-middle .row ul li{
+    padding: 5px 6px;
+}
+.banner-middle .row ul li span{
+    display: inline-block;
+    width: 35px;
+    height: 25px;
+    border: 1px solid #eee;
+    text-align: center;
+    padding: 3px;
+    margin-right: 10px;
+
+}
+.banner-middle{
+    padding-top: 60px;
+    color: #eee;
+}
+.banner-middle .row ul{
+    list-style-type: none;
+} 
+.fa.fa-thumb-tack{
+    padding: 5px 6px;
+  color: #b15e11;
+}
+p{font-size: small;
+}
+.fa-user,.envelope1,.fa-question-circle{
+    margin-top: 80px;
+    font-size: 40px;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    margin-left: 110px;
+    color: #b15e11;
+}
+.container .ser{
+    margin-top: 40px;
+    width: 100% !important;
+    min-height: 250px;
+    background-image: url(../images/ser.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.pbox{
+    font-size: x-small;
+    color: grey;
+}
+.volup{color: #b15e11;
+}
+.fa-cog,.fa-arrows,.fa-wrench,.fa-fire{
+    color: #b15e11;
+}
+.boxvolup{
+    display: flex;
+    justify-content: end;
+}
+.tempohouse{
+    margin-top: 40px;
+    width: 60% !important;
+    min-height: 180px;
+    background-image: url(../images/11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.temporibus{
+    margin-top: 40px;
+    width: 40%;
+    min-height: 180px;
+    background-color: #6de0db;
+}
+.tempoautem{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.tempolibe{
+    margin-left: 20px; 
+}
+.circle{clip-path: circle();
+        background: rgb(7, 83, 109);
+        border-radius: 50%;
+        width: 5px;
+        height: 15px;
+        margin-left: 15px;
+        margin-top: 10px;
+}
+.circle2{
+       clip-path: circle();
+    background: rgb(109, 85, 7);
+        border-radius: 50%;
+        width: 5px;
+        height: 15px;
+        margin-left: 15px;
+        margin-top: 10px;
+        
+}
+.circle3{
+    clip-path: circle();
+    background: rgb(7, 83, 109);
+        border-radius: 50%;
+        width: 5px;
+        height: 15px;
+        margin-left: 15px;
+        margin-top: 10px;
+}
+ .curabitur ul{
+    list-style-type: none; 
+    margin-right: 70px;  
+}
+.nullam ul{
+    list-style-type: none;
+}
+.lectus ul{
+    list-style-type: none;
+}
+.fa-arrow-right{
+    color: #b15e11;
+margin-right: 5px;
+}
+.recent{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.nullam4,.lectus4,.curabitur4{
+    color: #b15e11; 
+}
+.footer{ width: 100% !important;
+       background-color: black;
+    background-size: cover;
+height: 180px;}
+    input{width: 270px;
+        height: 30px;
+        outline: none;
+    }
+    .links{
+        border-right: 3px solid grey;
+        height: 150px;
+    }
+    .support{
+        border-right: 3px solid grey;
+        height: 150px; 
+    }
+    .footerrow{
+        border-bottom: 2px solid grey;
+    }
+    .footer .nav-vertical{
+        list-style-type: none;
+    }
+    .footer .fa-envelope,.fa-home,.fa-phone{
+        margin-right: 10px;
+    }
+    .support4,.links4{margin-left: 28px;}
+    .howe{
+        margin-top: 20px;
+    }
+    .fontemail{
+        position: relative;
+    }
+    .fontemail i{
+        position: absolute;
+        right: 8px;
+        font-size: 20px;
+        background-color:#b15e11;
+        border: 1px solid #b15e11;
+        border-width: 5.2px;
+    }
+    .fontemail .fa-envelope{
+        color: #eee;
+    }
+    
